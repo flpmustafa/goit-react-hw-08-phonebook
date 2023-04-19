@@ -1,0 +1,12 @@
+.nav {
+  width: 30px;
+}
+
+.nav_link {
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+}
+.nav_dec {
+  text-decoration: none;
+}

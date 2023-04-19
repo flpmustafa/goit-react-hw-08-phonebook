@@ -1,0 +1,21 @@
+.Menu {
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.btn_out {
+  border-radius: 7px;
+  border-color: transparent;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.btn_out:hover {
+  background-color: orange;
+}

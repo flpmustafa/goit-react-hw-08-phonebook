@@ -1,0 +1,16 @@
+.AuthNav {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+  color: black;
+}
+
+.text_style {
+  color: black;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.text_style:hover {
+  color: rgba(0, 0, 0, 0.589);
+}
